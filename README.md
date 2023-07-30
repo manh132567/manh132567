@@ -10,8 +10,7 @@ Interested in building fun, interactive, and beautiful experiences
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
-:shipit: CS + REU Fellow @ [**[University of Science and Education]**] 
-:shipit: Open-source enthusiast year-round
+:shipit: CS + REU Fellow @ niversity of Science and Education
 
 [42tm]: https://github.com/42tm
 [abyss]: https://github.com/abyss-inc
