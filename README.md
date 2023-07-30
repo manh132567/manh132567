@@ -26,9 +26,8 @@ Interested in building fun, interactive, and beautiful experiences
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
-_Favorite programming language: Rust :crab:._  
-_Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
-:skateboard: skateboarding, :computer_mouse: interactive experiences._
+_Favorite programming language: JavaScript :crab:._  
+_Other skills: :skateboard: skateboarding, :computer_mouse: interactive experiences._
 
 ### Software
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
